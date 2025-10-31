@@ -51,7 +51,7 @@ const enzo = {
 <td width="50%">
 
 #### 🤖 [Agenitix](https://agenitix.vercel.app)
-**Plataforma de IA - Hackathon Winner**
+**Plataforma de IA - Hackathon**
 
 Plataforma desarrollada en hackathon que integra múltiples APIs de IA para automatización de flujos de trabajo. Interfaz moderna con funcionalidades avanzadas.
 

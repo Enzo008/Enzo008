@@ -22,7 +22,7 @@ const enzo = {
   location: "Lima, Perú 🇵🇪",
   role: "Fullstack Developer",
   company: "Grupo Powermas",
-  education: "Computer Science @ UNMSM",
+  education: "Computer & Informatics @ CIBERTEC",
   specialization: [".NET 8", "React", "TypeScript", "Azure"],
   passion: "Crear soluciones que impacten positivamente",
   currentFocus: "Arquitecturas escalables + IA",
@@ -51,11 +51,11 @@ const enzo = {
 <td width="50%">
 
 #### 🤖 [Agenitix](https://agenitix.vercel.app)
-**AI Workflow Automation Platform**
+**Plataforma de IA - Hackathon Winner**
 
-Plataforma desarrollada en hackathon que integra múltiples APIs de IA para automatización de flujos de trabajo.
+Plataforma desarrollada en hackathon que integra múltiples APIs de IA para automatización de flujos de trabajo. Interfaz moderna con funcionalidades avanzadas.
 
-**Tech:** Next.js • TypeScript • Convex • OpenAI • Anthropic
+**Tech:** Next.js • TypeScript • Convex • OpenAI • Anthropic • Tailwind CSS
 
 [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://agenitix.vercel.app)
 [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jayrr-Dev/AgenitiX)
@@ -63,15 +63,15 @@ Plataforma desarrollada en hackathon que integra múltiples APIs de IA para auto
 </td>
 <td width="50%">
 
-#### 📱 [Maritask](https://github.com/Enzo008/maritask)
-**Task Management Mobile App**
+#### 🎨 [SaaS Application Template](http://powermas-001-site4.atempurl.com)
+**Plantilla SaaS Empresarial**
 
-Aplicación móvil para gestión de tareas con interfaz moderna y funcionalidades avanzadas.
+Plantilla SaaS completa con arquitectura escalable. Incluye autenticación, gestión de usuarios, componentes reutilizables y patrones empresariales.
 
-**Tech:** React Native • TypeScript • Expo • AsyncStorage
+**Tech:** React • TypeScript • .NET 8 • SQL Server • Tailwind CSS
 
-[![Download](https://img.shields.io/badge/Download-APK-green?style=flat-square&logo=android)](https://github.com/Enzo008/maritask/releases)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/maritask)
+[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](http://powermas-001-site4.atempurl.com)
+[![Private](https://img.shields.io/badge/Code-Private-red?style=flat-square&logo=github)](https://github.com)
 
 </td>
 </tr>
@@ -79,28 +79,28 @@ Aplicación móvil para gestión de tareas con interfaz moderna y funcionalidade
 <tr>
 <td width="50%">
 
-#### 💰 [Expense Manager](https://github.com/Enzo008/expense-manager)
-**Personal Finance Tracker**
+#### 💰 [Expense Manager](https://expense-manager-gilt.vercel.app/dashboard)
+**Gestor de Gastos Personales**
 
-Sistema de gestión de gastos personales con análisis y reportes visuales.
+Aplicación para gestión de gastos personales con dashboard interactivo, categorización automática y reportes detallados.
 
-**Tech:** React • TypeScript • Chart.js • LocalStorage
+**Tech:** Next.js • TypeScript • Supabase • PostgreSQL • Tailwind CSS
 
-[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://expense-manager-enzo.vercel.app)
+[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://expense-manager-gilt.vercel.app/dashboard)
 [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/expense-manager)
 
 </td>
 <td width="50%">
 
-#### 🎨 [SaaS Template](https://github.com/Enzo008/saas-template)
-**Modern SaaS Starter Kit**
+#### 📱 [Maritask](https://github.com/Enzo008/Enzo008)
+**App Móvil de Gestión de Tareas**
 
-Plantilla completa para crear aplicaciones SaaS con autenticación, gestión de usuarios y patrones empresariales.
+Aplicación móvil multiplataforma para gestión de tareas y recordatorios con calendario integrado. Notificaciones locales y soporte multiidioma.
 
-**Tech:** Next.js • TypeScript • Tailwind • shadcn/ui
+**Tech:** React Native • Expo • TypeScript • Zustand • SQLite
 
-[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://saas-template-enzo.vercel.app)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/saas-template)
+[![Download](https://img.shields.io/badge/Download-APK-green?style=flat-square&logo=android)](https://github.com/Enzo008/Enzo008/raw/master/assets/maritask-v1.0.apk)
+[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/maritask)
 
 </td>
 </tr>
@@ -214,13 +214,13 @@ Desarrollo de plataforma de IA con Next.js, Convex y múltiples APIs de IA. Impl
 
 ```yaml
 Educación:
-  - 🎓 Computer Science @ UNMSM (En curso)
+  - 🎓 Computación e Informática @ CIBERTEC
   - 📚 Autodidacta desde 2020
   - 💻 Aprendizaje continuo en nuevas tecnologías
 
 Logros:
   - 🏆 Hackathon Kiro - Proyecto Agenitix (2025)
-  - 💼 Fullstack Developer @ Grupo Powermas (2024)
+  - 💼 Fullstack Developer @ Grupo Powermas (2024 - Presente)
   - 🚀 10+ proyectos completados
   - 📱 Apps móviles publicadas
   - ☁️ Experiencia con Azure y despliegues en producción

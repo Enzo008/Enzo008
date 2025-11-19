@@ -55,7 +55,7 @@ const enzo = {
 
 Plataforma desarrollada en hackathon que integra múltiples APIs de IA para automatización de flujos de trabajo. Interfaz moderna con funcionalidades avanzadas.
 
-**Tech:** Next.js • TypeScript • Convex • OpenAI • Anthropic • Tailwind CSS
+**Tech:** Next.js • TypeScript • Convex • OpenAI • Anthropic • Tailwind CSS • Others
 
 [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://agenitix.vercel.app)
 [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jayrr-Dev/AgenitiX)
@@ -68,10 +68,10 @@ Plataforma desarrollada en hackathon que integra múltiples APIs de IA para auto
 
 Plantilla SaaS completa con arquitectura escalable. Incluye autenticación, gestión de usuarios, componentes reutilizables y patrones empresariales.
 
-**Tech:** React • TypeScript • .NET 8 • SQL Server • Tailwind CSS
+**Tech:** React • TypeScript • .NET 8 • SQL Server • Tailwind CSS • Others
 
 [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](http://powermas-001-site4.atempurl.com)
-[![Private](https://img.shields.io/badge/Code-Private-red?style=flat-square&logo=github)](https://github.com)
+[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/saas-template)
 
 </td>
 </tr>
@@ -84,7 +84,7 @@ Plantilla SaaS completa con arquitectura escalable. Incluye autenticación, gest
 
 Aplicación para gestión de gastos personales con dashboard interactivo, categorización automática y reportes detallados.
 
-**Tech:** Next.js • TypeScript • Supabase • PostgreSQL • Tailwind CSS
+**Tech:** Next.js • TypeScript • Supabase • PostgreSQL • Tailwind CSS • Others
 
 [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://expense-manager-gilt.vercel.app/dashboard)
 [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/expense-manager)
@@ -97,7 +97,7 @@ Aplicación para gestión de gastos personales con dashboard interactivo, catego
 
 Aplicación móvil multiplataforma para gestión de tareas y recordatorios con calendario integrado. Notificaciones locales y soporte multiidioma.
 
-**Tech:** React Native • Expo • TypeScript • Zustand • SQLite
+**Tech:** React Native • Expo • TypeScript • Zustand • SQLite • Others
 
 [![Download](https://img.shields.io/badge/Download-APK-green?style=flat-square&logo=android)](https://github.com/Enzo008/Enzo008/raw/master/assets/maritask-v1.0.apk)
 [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/maritask)

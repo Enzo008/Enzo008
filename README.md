@@ -23,16 +23,16 @@ const enzo = {
   role: "Fullstack Developer",
   company: "Grupo Powermas",
   education: "Computer & Informatics @ CIBERTEC",
-  specialization: [".NET 8", "React", "TypeScript", "Azure"],
+  specialization: [".NET", "React", "TypeScript", "Azure"],
   passion: "Crear soluciones que impacten positivamente",
   currentFocus: "Arquitecturas escalables + IA",
-  funFact: "Hackathons y código limpio son mi zona de confort 🚀"
+  funFact: "Código limpio es mi zona de confort 🚀"
 };
 ```
 
 **💼 Actualmente:**
 - 🏢 Fullstack Developer @ **Grupo Powermas** (Enero 2024 - Presente)
-- 🔨 Desarrollando aplicaciones con **React + .NET 8 + Azure**
+- 🔨 Desarrollando aplicaciones con **React + .NET + Azure**
 - 🤖 Integrando **IA** en aplicaciones web modernas
 - 🏆 Participando en **hackathons** y proyectos desafiantes
 
@@ -50,28 +50,28 @@ const enzo = {
 <tr>
 <td width="50%">
 
-#### 🤖 [Agenitix](https://agenitix.vercel.app)
-**Plataforma de IA - Hackathon**
+#### 🎨 [SaaS Application Template](http://powermas-001-site4.atempurl.com)
+**Plantilla SaaS Empresarial** ⭐
 
-Plataforma desarrollada en hackathon que integra múltiples APIs de IA para automatización de flujos de trabajo. Interfaz moderna con funcionalidades avanzadas.
+Plantilla SaaS completa para crear aplicaciones web modernas con arquitectura escalable. Incluye autenticación, gestión de usuarios, componentes reutilizables y patrones de diseño empresariales.
 
-**Tech:** Next.js • TypeScript • Convex • OpenAI • Anthropic • Tailwind CSS • Others
+**Tech:** React • TypeScript • Vite • .NET • SQL Server • Tailwind CSS
 
-[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://agenitix.vercel.app)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jayrr-Dev/AgenitiX)
+[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](http://powermas-001-site4.atempurl.com)
+[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/saas-template)
 
 </td>
 <td width="50%">
 
-#### 🎨 [SaaS Application Template](http://powermas-001-site4.atempurl.com)
-**Plantilla SaaS Empresarial**
+#### 🤖 [AgenitiX - Plataforma de IA](https://agenitix.vercel.app)
+**Automatización con IA** ⭐
 
-Plantilla SaaS completa con arquitectura escalable. Incluye autenticación, gestión de usuarios, componentes reutilizables y patrones empresariales.
+Plataforma de automatización con flujos de trabajo visuales basados en nodos. Integra múltiples proveedores de IA (OpenAI, Anthropic, Google) con backend serverless.
 
-**Tech:** React • TypeScript • .NET 8 • SQL Server • Tailwind CSS • Others
+**Tech:** Next.js • TypeScript • Convex • AI SDK • XYFlow • Tailwind CSS
 
-[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](http://powermas-001-site4.atempurl.com)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/saas-template)
+[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://agenitix.vercel.app)
+[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jayrr-Dev/AgenitiX)
 
 </td>
 </tr>
@@ -79,28 +79,47 @@ Plantilla SaaS completa con arquitectura escalable. Incluye autenticación, gest
 <tr>
 <td width="50%">
 
+#### 🏛️ [Archi Studio](https://archi-studio-eight.vercel.app/)
+**Plataforma para Arquitectos**
+
+Plataforma SaaS para estudios de arquitectura. Centraliza proyectos, clientes, presupuestos y documentación con autenticación robusta y gestión integral.
+
+**Tech:** Next.js • TypeScript • .NET • Clerk • TanStack Query • Tailwind CSS
+
+[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://archi-studio-eight.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/archi-studio)
+
+</td>
+<td width="50%">
+
 #### 💰 [Expense Manager](https://expense-manager-gilt.vercel.app/dashboard)
 **Gestor de Gastos Personales**
 
 Aplicación para gestión de gastos personales con dashboard interactivo, categorización automática y reportes detallados.
 
-**Tech:** Next.js • TypeScript • Supabase • PostgreSQL • Tailwind CSS • Others
+**Tech:** Next.js • TypeScript • Supabase • PostgreSQL • Tailwind CSS
 
 [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://expense-manager-gilt.vercel.app/dashboard)
 [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/expense-manager)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
-#### 📱 [Maritask](https://github.com/Enzo008/Enzo008)
+#### 📱 [Maritask](https://github.com/Enzo008/maritask)
 **App Móvil de Gestión de Tareas**
 
-Aplicación móvil multiplataforma para gestión de tareas y recordatorios con calendario integrado. Notificaciones locales y soporte multiidioma.
+Aplicación móvil multiplataforma para gestión de tareas y recordatorios con calendario integrado. Incluye notificaciones locales, almacenamiento offline y soporte multiidioma.
 
-**Tech:** React Native • Expo • TypeScript • Zustand • SQLite • Others
+**Tech:** React Native • Expo • TypeScript • Zustand • SQLite
 
 [![Download](https://img.shields.io/badge/Download-APK-green?style=flat-square&logo=android)](https://github.com/Enzo008/Enzo008/raw/master/assets/maritask-v1.0.apk)
 [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/maritask)
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -167,14 +186,6 @@ Aplicación móvil multiplataforma para gestión de tareas y recordatorios con c
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enzo008&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Enzo008&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---

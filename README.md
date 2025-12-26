@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+Soy+Enzo+Aguirre;Fullstack+Developer+%7C+.NET+%2B+React;Construyendo+soluciones+escalables" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+Soy+Enzo+Aguirre;Fullstack+Developer;.NET+%7C+React+%7C+Docker" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visita_mi_Web-3B82F6?style=for-the-badge)](https://tu-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enzo-aguirre)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kipudev.com-3B82F6?style=for-the-badge)](https://kipudev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enzo-aguirre-078756217/)
 [![Email](https://img.shields.io/badge/Email-Hablemos-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzoaguirre629@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Sígueme-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enzo008)
 
@@ -21,41 +21,68 @@
 const enzo = {
   location: "Lima, Perú 🇵🇪",
   role: "Fullstack Developer",
-  company: "Grupo Powermas",
-  education: "Computer & Informatics @ CIBERTEC",
-  specialization: [".NET", "React", "TypeScript", "Azure"],
-  passion: "Crear soluciones que impacten positivamente",
-  currentFocus: "Arquitecturas escalables + IA",
-  funFact: "Código limpio es mi zona de confort 🚀"
+  education: "Computación e Informática @ CIBERTEC",
+  stack: [".NET", "React", "Next.js", "Docker"],
+  currentlyBuilding: "APIs y apps SaaS en mi VPS",
+  funFact: "Tengo mi propio servidor donde experimento 🚀"
 };
 ```
 
-**💼 Actualmente:**
-- 🏢 Fullstack Developer @ **Grupo Powermas** (Enero 2024 - Presente)
-- 🔨 Desarrollando aplicaciones con **React + .NET + Azure**
-- 🤖 Integrando **IA** en aplicaciones web modernas
-- 🏆 Participando en **hackathons** y proyectos desafiantes
+**💼 En qué ando:**
+- 🔨 Construyendo **SUNAT API** — una API que procesa 18M+ registros
+- 🏗️ Armando proyectos SaaS con **Next.js + .NET**
+- 🐳 Todo containerizado con **Docker** en mi VPS
+- 🤖 Metiéndome en temas de **IA** cuando puedo
 
-**🎯 Enfoque:**
-- Código limpio y mantenible
-- Arquitecturas escalables
-- Experiencias de usuario excepcionales
-- Mejores prácticas de la industria
+**🎯 Lo que me gusta:**
+- Hacer que las cosas funcionen bien y escalen
+- Tener control sobre mi infraestructura
+- Aprender cosas nuevas con proyectos propios
+- Participar en hackathons
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Proyectos Destacados
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🎨 [SaaS Application Template](http://powermas-001-site4.atempurl.com)
-**Plantilla SaaS Empresarial** ⭐
+#### 🔥 [SUNAT API + KipuDev](https://kipudev.com)
+**Mi proyecto más ambicioso** 🔒
 
-Plantilla SaaS completa para crear aplicaciones web modernas con arquitectura escalable. Incluye autenticación, gestión de usuarios, componentes reutilizables y patrones de diseño empresariales.
+Una API que procesa más de 18 millones de registros del padrón SUNAT. Incluye ETL automatizado, cache con Redis, y un portal web para gestionar API Keys.
 
-**Tech:** React • TypeScript • Vite • .NET • SQL Server • Tailwind CSS
+**Tech:** .NET • SQL Server • Redis • Docker • Next.js
+
+[![Demo](https://img.shields.io/badge/Portal-kipudev.com-success?style=flat-square)](https://kipudev.com)
+![Private](https://img.shields.io/badge/Repo-Privado-red?style=flat-square)
+
+</td>
+<td width="50%">
+
+#### 🏛️ [Archi Studio](https://archi.kipudev.com)
+**SaaS para Arquitectos**
+
+Una plataforma pensada para estudios de arquitectura. Les permite organizar proyectos, clientes y presupuestos. Todo corre en contenedores Docker.
+
+**Tech:** Next.js • .NET • SQL Server • Docker • Clerk
+
+[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://archi.kipudev.com)
+[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/archi-studio)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🎨 [SaaS Template](http://powermas-001-site4.atempurl.com)
+**Plantilla para arrancar rápido**
+
+Una plantilla que armé para empezar proyectos SaaS más rápido. Viene con autenticación, gestión de usuarios y patrones que uso frecuentemente.
+
+**Tech:** React • TypeScript • Vite • .NET • SQL Server
 
 [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](http://powermas-001-site4.atempurl.com)
 [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/saas-template)
@@ -63,12 +90,12 @@ Plantilla SaaS completa para crear aplicaciones web modernas con arquitectura es
 </td>
 <td width="50%">
 
-#### 🤖 [AgenitiX - Plataforma de IA](https://agenitix.vercel.app)
-**Automatización con IA** ⭐
+#### 🤖 [AgenitiX](https://agenitix.vercel.app)
+**Proyecto de Hackathon**
 
-Plataforma de automatización con flujos de trabajo visuales basados en nodos. Integra múltiples proveedores de IA (OpenAI, Anthropic, Google) con backend serverless.
+Plataforma para armar flujos de automatización con IA. Conecta varios proveedores como OpenAI y Anthropic mediante nodos visuales. Fue un proyecto de hackathon muy divertido.
 
-**Tech:** Next.js • TypeScript • Convex • AI SDK • XYFlow • Tailwind CSS
+**Tech:** Next.js • TypeScript • Convex • AI SDK • XYFlow
 
 [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://agenitix.vercel.app)
 [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Jayrr-Dev/AgenitiX)
@@ -79,39 +106,10 @@ Plataforma de automatización con flujos de trabajo visuales basados en nodos. I
 <tr>
 <td width="50%">
 
-#### 🏛️ [Archi Studio](https://archi-studio-eight.vercel.app/)
-**Plataforma para Arquitectos**
-
-Plataforma SaaS para estudios de arquitectura. Centraliza proyectos, clientes, presupuestos y documentación con autenticación robusta y gestión integral.
-
-**Tech:** Next.js • TypeScript • .NET • Clerk • TanStack Query • Tailwind CSS
-
-[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://archi-studio-eight.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/archi-studio)
-
-</td>
-<td width="50%">
-
-#### 💰 [Expense Manager](https://expense-manager-gilt.vercel.app/dashboard)
-**Gestor de Gastos Personales**
-
-Aplicación para gestión de gastos personales con dashboard interactivo, categorización automática y reportes detallados.
-
-**Tech:** Next.js • TypeScript • Supabase • PostgreSQL • Tailwind CSS
-
-[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://expense-manager-gilt.vercel.app/dashboard)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Enzo008/expense-manager)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 #### 📱 [Maritask](https://github.com/Enzo008/maritask)
-**App Móvil de Gestión de Tareas**
+**App móvil que uso yo mismo**
 
-Aplicación móvil multiplataforma para gestión de tareas y recordatorios con calendario integrado. Incluye notificaciones locales, almacenamiento offline y soporte multiidioma.
+Una app para organizar tareas del día a día. Tiene calendario, notificaciones y funciona sin conexión. La hice porque necesitaba algo simple que funcionara bien.
 
 **Tech:** React Native • Expo • TypeScript • Zustand • SQLite
 
@@ -127,46 +125,32 @@ Aplicación móvil multiplataforma para gestión de tareas y recordatorios con c
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Lo que uso
 
 <div align="center">
+
+#### ⚙️ Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-
-#### ⚙️ Backend & Database
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-FF6B6B?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
 #### 📱 Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-#### ☁️ DevOps & Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+#### 🐳 DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-#### 🤖 IA & APIs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
-
-#### 🧪 Testing & Quality
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 </div>
 
@@ -190,7 +174,7 @@ Aplicación móvil multiplataforma para gestión de tareas y recordatorios con c
 
 ---
 
-### 💼 Experiencia Profesional
+### 💼 Experiencia
 
 <table>
 <tr>
@@ -198,22 +182,22 @@ Aplicación móvil multiplataforma para gestión de tareas y recordatorios con c
 
 **🏢 Fullstack Developer**  
 **Grupo Powermas** | Remoto  
-📅 Enero 2024 - Presente
+📅 Enero 2024 - Noviembre 2025
 
-Desarrollo de aplicaciones fullstack con React, TypeScript, .NET 8 y SQL Server. Implementación de arquitecturas escalables y despliegue en Azure.
+Trabajé desarrollando aplicaciones empresariales de principio a fin. Mucho React y .NET, con despliegues en Azure. Aprendí bastante sobre cómo funcionan los equipos en empresas grandes.
 
-**Stack:** React • TypeScript • .NET 8 • C# • SQL Server • Azure
+**Stack:** React • TypeScript • .NET • C# • SQL Server • Azure
 
 </td>
 <td width="50%">
 
-**🤖 Colaborador - Hackathon Agenitix**  
+**🤖 Hackathon AgenitiX**  
 **Kiro Hackathon** | Remoto  
 📅 Septiembre - Octubre 2025
 
-Desarrollo de plataforma de IA con Next.js, Convex y múltiples APIs de IA. Implementación de flujos complejos y UI moderna.
+Participé en un hackathon donde armamos una plataforma para crear flujos de automatización con IA. Fue intenso pero muy divertido trabajar con un equipo nuevo.
 
-**Stack:** Next.js • React • TypeScript • Convex • OpenAI API • Tailwind CSS
+**Stack:** Next.js • React • TypeScript • Convex • AI SDK
 
 </td>
 </tr>
@@ -227,14 +211,12 @@ Desarrollo de plataforma de IA con Next.js, Convex y múltiples APIs de IA. Impl
 Educación:
   - 🎓 Computación e Informática @ CIBERTEC
   - 📚 Autodidacta desde 2020
-  - 💻 Aprendizaje continuo en nuevas tecnologías
 
 Logros:
-  - 🏆 Hackathon Kiro - Proyecto Agenitix (2025)
-  - 💼 Fullstack Developer @ Grupo Powermas (2024 - Presente)
-  - 🚀 10+ proyectos completados
+  - 🚀 SUNAT API procesando 18M+ registros en producción
+  - 🏆 Hackathon Kiro - Proyecto AgenitiX (2025)
+  - 🖥️ VPS propio con múltiples servicios en Docker
   - 📱 Apps móviles publicadas
-  - ☁️ Experiencia con Azure y despliegues en producción
 ```
 
 ---
@@ -258,86 +240,69 @@ Logros:
 
 ---
 
-### 🎯 En Qué Estoy Trabajando
+### 🎯 En Qué Ando
 
 ```typescript
-const currentGoals = {
-  work: [
-    "🏢 Desarrollando aplicaciones escalables en Grupo Powermas",
-    "🤖 Integrando IA en proyectos web modernos",
-    "☁️ Mejorando arquitecturas con Azure"
+const ahora = {
+  construyendo: [
+    "🔥 SUNAT API - escalando y mejorando features",
+    "🏗️ Nuevos proyectos SaaS en mi pipeline",
+    "🐳 Optimizando mi infraestructura Docker"
   ],
-  learning: [
-    "📚 Patrones avanzados de React y arquitectura",
-    "🧠 System Design y escalabilidad",
-    "🎨 UI/UX y mejores prácticas de diseño"
+  aprendiendo: [
+    "🧠 System Design y patrones de escalabilidad",
+    "🤖 Integraciones con IA",
+    "📱 Mejorando en React Native"
   ],
-  goals2025: [
-    "🚀 Lanzar mi propio SaaS",
+  proximosPasos: [
+    "🚀 Monetizar SUNAT API",
     "🤝 Contribuir más a open source",
-    "📝 Iniciar blog técnico",
-    "🏆 Participar en más hackathons"
-  ],
-  funTime: "🎮 Gaming y aprender nuevas tecnologías"
+    "🏆 Más hackathons"
+  ]
 };
 ```
 
 ---
 
-### 💡 Mi Filosofía de Desarrollo
+### 💡 Cómo trabajo
 
-<div align="center">
-
-> *"El código limpio no se escribe siguiendo un conjunto de reglas. No te conviertes en un artesano del software aprendiendo una lista de heurísticas. El profesionalismo y la artesanía provienen de valores y disciplina."*
-> 
-> **— Robert C. Martin (Uncle Bob)**
-
-</div>
-
-**🎯 Principios que sigo:**
-- ✅ Código limpio y mantenible
-- ✅ Arquitecturas escalables y robustas
-- ✅ Testing y calidad del código
-- ✅ Documentación clara
-- ✅ Mejora continua
+**Lo que me importa:**
+- ✅ Que las cosas funcionen y escalen
+- ✅ Código que se entienda sin necesidad de comentarios
+- ✅ Tener control sobre la infraestructura
+- ✅ Aprender haciendo proyectos reales
 
 ---
 
-### 📫 ¡Conectemos!
+### 📫 ¿Hablamos?
 
 <div align="center">
 
-**Siempre abierto a conversaciones interesantes y oportunidades de colaboración**
+**Si tienes un proyecto interesante o simplemente quieres charlar, escríbeme**
 
-💼 **Disponible para:** Proyectos Freelance | Oportunidades Full-time | Colaboraciones
+💼 **Disponible para:** Freelance | Full-time | Colaboraciones
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visita_mi_Web-3B82F6?style=for-the-badge)](https://tu-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kipudev.com-3B82F6?style=for-the-badge)](https://kipudev.com)
 [![Email](https://img.shields.io/badge/📧_Email-Hablemos-D14836?style=for-the-badge)](mailto:enzoaguirre629@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conectemos-0077B5?style=for-the-badge)](https://linkedin.com/in/enzo-aguirre)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conectemos-0077B5?style=for-the-badge)](https://linkedin.com/in/enzo-aguirre-078756217/)
 [![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51907078329)
 
 <br/>
 
-**📍 Lima, Perú 🇵🇪 | 🌐 Disponible para trabajo remoto**
+**📍 Lima, Perú 🇵🇪 | Trabajo remoto**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=¡Gracias%20por%20visitar!%20⭐&fontSize=16&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Gracias%20por%20pasar%20⭐&fontSize=16&fontColor=fff&animation=twinkling" />
 </div>
 
 <div align="center">
   
-  **⭐ Hecho con ❤️ por [Enzo Aguirre](https://github.com/Enzo008)**
-  
-  *"El mejor código es el que no necesitas escribir, pero cuando lo haces, hazlo bien."*
-  
-  <br/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Enzo008&label=Visitas%20al%20perfil&color=3B82F6&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Enzo008&label=Visitas&color=3B82F6&style=flat-square)
   
 </div>
